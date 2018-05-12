@@ -1,4 +1,8 @@
 _repo: Hawkins-Electrical-Guide-Vol-8-of-10-A-Progressive-Course-of-Study-for-Engineers-Electricians__50068
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50068-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawkins, N. (Nehemiah)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '39434'
     url: http://www.gutenberg.org/2009/agents/39434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50068#Hawkins-Electrical-Guide-Vol-8-of-10-A-Progressive-Course-of-Study-for-Engineers-Electricians_
 gutenberg_issued: '2015-09-28'
 gutenberg_type: Text
 identifiers:
